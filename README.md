@@ -1,2 +1,4 @@
 # Fizz-Buzz
-Fizz Buzz
+
+for (var hashtag = '#'; hashtag <= "#######"; hashtag = hashtag + '#')
+console.log(hashtag);
